@@ -1,6 +1,6 @@
 # COVID-19 Global Data Tracker
 
-![Dashboard Screenshot](images/Dashboard.png)
+![Dashboard Screenshot](images/Dashaboard.png)
 ![Dashboard Screenshot](images/Dashboard1.png)
 ![Dashboard Screenshot](images/Dashboard2.png)
 
